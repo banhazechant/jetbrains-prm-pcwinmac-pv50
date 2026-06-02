@@ -1,4 +1,4 @@
-# 
+# 轻量 JetBrains PyCharm 工具 Mac OS版 | 终极 JetBrains PyCharm 工具 PC Windows版。集成 子模块支持 和 表设计器，跨平台性能最大化。
 
 
 
